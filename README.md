@@ -1,5 +1,5 @@
 # Mohammad Soroush Esnaashari
-**`Researcher (AI, Machine Learning, Deep Learning and Industrial Engineering)`**
+**`Researcher (AI, Machine Learning, Deep Learning, Data Science and Industrial Engineering)`**
 
 Hey there!👋🏼 Welcome to my GitHub profile! I'm **Mohammad Soroush Esnaashari** known as **Soroush**, an Industrial Engineer and a Researcher who is passionate about **AI**, **Machine Learning**, **Deep Learning** and **Data Science**. I'm constantly learning and working on exciting projects in these fields. My journey into the world of data-related fields began during my **Operations Research course**, where I discovered my interest in data-driven problem-solving. Since then, I've been exploring and applying **Machine Learning** and related technologies to tackle complex challenges.
 
