@@ -44,7 +44,7 @@ I love sharing knowledge! Check out my recent articles:
 
 ### 📫 Contact Me
 You can contact me in either of these ways:
-- **𝕏**: Directly through my [𝕏](https://x.com/srshesn) account
+- **Twitter**: Directly through my [𝕏](https://x.com/srshesn) account
 - **Email**: [soroushesnaashari@gmail.com](mailto:soroushesnaashari@gmail.com)
 - **LinkedIn**: Via my [LinkedIn](https://www.linkedin.com/in/soroushesnaashari/) profile
 
