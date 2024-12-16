@@ -1,6 +1,6 @@
 ## Hey there! 👋🏼
 
-Welcome to my GitHub profile! I'm **Mohammad Soroush Esnaashari** known as **Soroush**, an Industrial Engineer and a Researcher who is passionate about **AI**, **machine learning**, **deep learning** and **data science**. I'm constantly learning and working on exciting projects in these fields.
+Welcome to my GitHub profile! I'm **Mohammad Soroush Esnaashari** known as **Soroush**, an Industrial Engineer and a Researcher who is passionate about **AI**, **Machine Learning**, **Deep Learning** and **Data Science**. I'm constantly learning and working on exciting projects in these fields.
 
 <br>
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm **Mohammad Soroush Esnaashari** known as **Sor
 <br>
 
 ### 💻 Projects
-Here are some of my notable projects:
+Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soroushesnaashari) account where you can find my projects there too:
 - **Customer Behavior Analysis**: An unsupervised learning project analyzing customer data. [Link to repository](https://github.com/soroushesnaashari/Customer-Clustering)
 - **Market Analyzing**: In this project I explore various machine learning algorithms to predict stock prices and evaluate their effectiveness. [Link to repository](https://github.com/soroushesnaashari/Market-Analyzing)
 - **Car Price Prediction**: Machine learning project predicting car prices using various models. [Link to repository](https://github.com/soroushesnaashari/Car-Price-Prediction)
@@ -43,8 +43,10 @@ I love sharing knowledge! Check out my recent articles:
 <br>
 
 ### 📫 Contact Me
-You can contact me in either of these ways: <br>
-[**𝕏**](https://x.com/srshesn) · [**Email**](mailto:soroushesnaashari@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/soroushesnaashari/)
+You can contact me in either of these ways:
+- **𝕏**: Directly through my [𝕏](https://x.com/srshesn) account
+- **Email**: [soroushesnaashari@gmail.com](mailto:soroushesnaashari@gmail.com)
+- **LinkedIn**: Via my [LinkedIn](https://www.linkedin.com/in/soroushesnaashari/) profile
 
 <br>
 
