@@ -15,8 +15,8 @@ Hey there!👋🏼 Welcome to my GitHub profile! I'm **Mohammad Soroush Esnaasha
 ### 🛠️ Skills & Expertise
 - **Programming Languages**: Python, C++, R
 - **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **Data Science Tools**: Pandas, NumPy, Matplotlib
-- **Other Tools**: Project management software, data visualization tools
+- **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn
+- **Other Tools**: Project Management software (Primavera, Microsoft Project and Microsoft Excel), data visualization tools
 
 #
 
