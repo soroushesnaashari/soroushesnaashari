@@ -20,7 +20,7 @@ Hey there!👋🏼 Welcome to my GitHub profile! I'm **Mohammad Soroush Esnaasha
 
 #
 
-### 💻 Projects
+### 💻 Selected Projects
 Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soroushesnaashari) account where you can find my projects there too:
 - **Customer Behavior Analysis**: An unsupervised learning project analyzing customer data. [Link to repository](https://github.com/soroushesnaashari/Customer-Clustering)
 - **Market Analyzing**: In this project I explore various machine learning algorithms to predict stock prices and evaluate their effectiveness. [Link to repository](https://github.com/soroushesnaashari/Market-Analyzing)
@@ -31,7 +31,7 @@ Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soro
 ### ✍️ Blog Posts
 I love sharing knowledge! Check out my recent articles:
 - [Data Scaling 101: StandardScaler vs MinMaxScaler](https://medium.com/towards-artificial-intelligence/data-scaling-101-standardscaler-vs-minmaxscaler-e8f78d77283f)
-- "Data Scaling 102: Beyond the Basics, Exploring RobustScaler, MaxAbsScaler and Other Scaling Methods" which is in publishing process.
+- [Data Scaling 102: Beyond the Basics, Exploring RobustScaler, MaxAbsScaler and Other Scaling Methods](https://medium.com/datadriveninvestor/data-scaling-102-beyond-the-basics-exploring-robustscaler-maxabsscaler-and-other-scaling-methods-383dd2921f69)
 
 #
 
