@@ -13,7 +13,7 @@
 #
 
 ### 🛠️ Skills & Expertise
-- **Programming Languages**: Python, C++, R
+- **Programming Languages**: Python
 - **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-learn
 - **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn
 - **Other Tools**: Project Management software (Primavera, Microsoft Project and Microsoft Excel), data visualization tools
@@ -35,20 +35,8 @@ I love sharing knowledge! Check out my recent articles:
 
 #
 
-### 🎯 Current Goals
-- Learning **NLP** (Natural Language Processing)
-- Finalizing my **AI-powered project management tool**.
-- Publishing more tutorials and articles for the ML/DL community.
-- Have more professional projects.
-
-#
-
 ### 📫 Contact Me
 You can contact me in either of these ways:
 - **Twitter**: Directly through my [𝕏](https://x.com/srshesn) account
 - **Email**: [soroushesnaashari@gmail.com](mailto:soroushesnaashari@gmail.com)
 - **LinkedIn**: Via my [LinkedIn](https://www.linkedin.com/in/soroushesnaashari/) profile
-
-#
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaborations or discussions. 😊
