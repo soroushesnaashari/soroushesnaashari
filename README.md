@@ -1,6 +1,35 @@
-<p align="center">
-    <strong style="font-size: 25px;">Mohammad Soroush Esnaashari</strong>
-</p>
+<head>
+  <!-- 1) Import a nice serif font -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    .fancy-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.5rem;
+      text-align: center;
+      background: linear-gradient(45deg, #ff7e5f, #feb47b, #86a8e7, #91eae4);
+      background-size: 300% 300%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+      animation: gradientShift 5s ease infinite;
+    }
+
+    @keyframes gradientShift {
+      0%   { background-position: 0% 50%; }
+      50%  { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</head>
+<body>
+  <p align="center">
+    <strong class="fancy-name">Mohammad Soroush Esnaashari</strong>
+  </p>
+</body>
+
 
 <br>
 
