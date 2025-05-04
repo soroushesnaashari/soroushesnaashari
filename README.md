@@ -1,6 +1,4 @@
-<p align="center">
-    <strong style="font-size: 35px;">Mohammad Soroush Esnaashari</strong>
-</p>
+<h2 align="center">Mohammad Soroush Esnaashari</h2>
 
 <br>
 
@@ -40,9 +38,9 @@
 
 #### 🛠️ Skills & Expertise
 - **Programming Languages**: Python
-- **Libraries/Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn
-- **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn
-- **Other Tools**: Project Management software (Primavera, Microsoft Project and Microsoft Excel), data visualization tools
+- **Libraries/Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Databases**: MongoDB
+- **Other Tools**: Git, Docker, Project Management software (Primavera, Microsoft Project and Microsoft Excel), data visualization tools
 
 #
 
