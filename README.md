@@ -47,8 +47,10 @@
 #### 💻 Selected Projects
 Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soroushesnaashari) account where you can find my projects there too:
 - **Customer Behavior Analysis**: An unsupervised learning project analyzing customer data. [Link to repository](https://github.com/soroushesnaashari/Customer-Clustering)
-- **Google Stock Price Forecasting**: Built and trained LSTM models in TensorFlow and PyTorch frameworks for predicting the Google's Stock Price. [Link to TensorFlow repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-PyTorch)
-- **Rice Images Cllasification**: Built CNN models classifying 5 rice varieties using both TensorFlow and PyTorch. [Link to TensorFlow repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-PyTorch)
+- **Google Stock Price Forecasting**: Built and trained LSTM models in TensorFlow and PyTorch frameworks for predicting the Google's Stock Price.<br>
+  [Link to TensorFlow repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-PyTorch)
+- **Rice Images Cllasification**: Built CNN models classifying 5 rice varieties using both TensorFlow and PyTorch.<br>
+  [Link to TensorFlow repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-PyTorch)
 
 #
 
