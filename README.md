@@ -46,7 +46,7 @@
 
 #### 💻 Selected Projects
 Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soroushesnaashari) account where you can find my projects there too:
-- **Anime Faces Generator**: Using Generative Adversarial Network (GAN) in both TensorFlow and PyTorch framework to create an Anime face generator.
+- **Anime Faces Generator**: Using Generative Adversarial Network (GAN) in both TensorFlow and PyTorch framework to create an Anime face generator.<br>
 [Link to TensorFlow repository](https://github.com/soroushesnaashari/Anime-Faces-Generator-with-GAN-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Anime-Faces-Generator-with-GAN-using-PyTorch)
 - **Google Stock Price Forecasting**: Built and trained LSTM models in TensorFlow and PyTorch frameworks for predicting the Google's Stock Price.<br>
 [Link to TensorFlow repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-PyTorch)
