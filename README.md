@@ -51,7 +51,7 @@ Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soro
 - **Google Stock Price Forecasting**: Built and trained LSTM models in TensorFlow and PyTorch frameworks for predicting the Google's Stock Price.<br>
 [Link to the TensorFlow repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-TensorFlow) · [Link to the PyTorch repository](https://github.com/soroushesnaashari/Google-Stock-Price-with-LSTM-using-PyTorch)
 - **Rice Images Cllasification**: Built CNN models classifying 5 rice varieties using both TensorFlow and PyTorch.<br>
-[Link to the TensorFlow repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-TensorFlow) · [Link to PyTorch repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-PyTorch)
+[Link to the TensorFlow repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-TensorFlow) · [Link to the PyTorch repository](https://github.com/soroushesnaashari/Rice-Images-Classification-with-CNN-using-PyTorch)
 
 #
 
