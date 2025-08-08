@@ -56,6 +56,6 @@ Here are some of my notable projects and my [Kaggle](https://www.kaggle.com/soro
 #
 
 #### ✍️ Blog Posts
-I love sharing knowledge! Check out my recent articles:
+Check out my articles:
 - [Data Scaling 101: StandardScaler vs MinMaxScaler](https://medium.com/towards-artificial-intelligence/data-scaling-101-standardscaler-vs-minmaxscaler-e8f78d77283f)
 - [Data Scaling 102: Beyond the Basics, Exploring RobustScaler, MaxAbsScaler and Other Scaling Methods](https://medium.com/datadriveninvestor/data-scaling-102-beyond-the-basics-exploring-robustscaler-maxabsscaler-and-other-scaling-methods-383dd2921f69)
