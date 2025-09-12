@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <span style="font-size: 16.5px; font-weight: normal;">< Operations Research, AI, Machine Learning, Deep Learning, Data Science and Industrial Engineering /></span>
+    <span style="font-size: 16.5px; font-weight: normal;"><samp>< Operations Research, AI, Machine Learning, Deep Learning, Data Science and Industrial Engineering /></samp></span>
 </p>
 
 <p align="center">
