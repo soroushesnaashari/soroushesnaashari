@@ -1,4 +1,4 @@
-<h2 align="center">Mohammad Soroush Esnaashari</h2>
+<h2 align="center"><samp>Mohammad Soroush Esnaashari</samp></h2>
 
 <br>
 
